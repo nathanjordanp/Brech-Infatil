@@ -127,7 +127,7 @@ document.addEventListener("DOMContentLoaded", function() {
             tamanho: "P, M, G",
             descricao: "Conjunto de saia e blusa para crianças.",
             preco: 49.99,
-            imagem: "https://ae01.alicdn.com/kf/Hb20d5d71cf174a0b8fe4a20c70a065c3X.jpg_640x640Q90.jpg_.webp"
+            imagem: "https://global.cdn.magazord.com.br/babeinolook/img/2024/04/produto/23665/02-conjunto-infantil-menina-shorts-salopete-raposas.jpeg?ims=fit-in/475x650/filters:fill(white)"
         },
         {
             nome: "Macacão Jeans",
